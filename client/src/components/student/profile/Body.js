@@ -72,11 +72,6 @@ const Body = () => {
                   label="Domicile Certificate"
                   value={user.result.domicilecertificate}
                 />
-                {/* 6 */}
-
-                {/* </div> */}
-                {/* <div className="flex flex-col space-y-10 "> */}
-                {/* </div> */}
               </div>
             </div>
           </div>{" "}
