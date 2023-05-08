@@ -1,6 +1,6 @@
 # COLLEGE PROJECT
 
-College Major Project using MERN Stack
+ College Project using MERN Stack
 
 # TechStack
 
@@ -19,17 +19,19 @@ College Major Project using MERN Stack
 3. User authentication using JWT
 4. Admin can Update profile details, password in profile section
 5. Admin can add delete or get any student, admin or faculty
-6. Admin can add new departments and subjects
-7. Admin can create new notices
-8. Faculty can Update profile details, password in profile section
-9. Faculty can create new test, mark attendance or students and also upload marks of created tests
-10. Student can Update profile details, password in profile section
-11. Student can check their attendance, marks and subject list
+6. Admin can add new departments
+7. Faculty can Update profile details, password in profile section
+8. Student can Update profile details, password in profile section
+9. Student can upload their documents in their profile
+10. Student can check their profile and fee status
+11. Student can pay their academic fees
 12. Error display feature available with form validation
-13. Modern UI
+13. Unique UI
 
 # Features to be added later in the future
 
 1. Mobile Responsiveness
-2. Sections other than academics
+2. Hostel Management
 3. More freedom to admin while adding new students,admins,faculties.
+4. Accountant Section
+
